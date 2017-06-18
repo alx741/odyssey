@@ -1,0 +1,8 @@
+*.o
+odyssey
+Makefile.in
+Makefile
+config.log
+config.status
+autom4te.cache
+stamp-h1
